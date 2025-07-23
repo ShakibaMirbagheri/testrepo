@@ -2,7 +2,7 @@
 
 Language: java
 
-Output Directory: ness.model.pojo.SimpleUser
+Output Directory: ness/model/pojo/SimpleUser.java
 
 Create a java class, that will have some public fields:
 uuid (String)
