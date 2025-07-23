@@ -1,4 +1,12 @@
-# My Task
-Language: python
-Output Directory: src/new_feature
-Write a function that adds two numbers.
+# Sample java task
+
+Language: java
+
+Output Directory: ness.model.pojo.SimpleUser
+
+Create a java class, that will have some public fields:
+uuid (String)
+name (String)
+surname (String)
+age (Integer)
+Add also, a constructor and toString method.
