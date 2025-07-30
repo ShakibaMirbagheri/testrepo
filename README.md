@@ -8,3 +8,5 @@ name (String)
 surname (String)
 age (Integer)
 Add also, a constructor and toString method.
+groupid: com.google
+artifactid:auserappart
